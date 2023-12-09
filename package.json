@@ -9,5 +9,8 @@
     "build": "cd backend && npm run build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1"
+  }
 }
